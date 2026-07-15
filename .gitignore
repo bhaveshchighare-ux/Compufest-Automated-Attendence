@@ -1,0 +1,11 @@
+﻿user_frontend/
+venv/
+.env
+node_modules
+
+ai/.tts_cache/
+ai/voice.wav
+
+__pycache__
+*.pyc
+logs/

@@ -1,0 +1,72 @@
+{
+  "users": {
+    "admin@compufest.com": {
+      "email": "admin@compufest.com",
+      "password": "$2b$12$q2nSZWD4YBAgFuk7gD8ktub8F.iob8btaYAZpxQDtDGveF1JuTo0K",
+      "name": "CompuFest Head",
+      "role": "Head",
+      "createdAt": "2026-07-14T14:35:01.441Z"
+    },
+    "aryachighare@gmail.com": {
+      "name": "Arya Chighare",
+      "email": "aryachighare@gmail.com",
+      "password": "$2b$12$xKjsPT0rUrLUw0dcasRwGe6hq6E9fOTaKkJ2RyLR18J0FSHVVKhpO",
+      "role": "Co-Head",
+      "createdAt": "2026-07-14T14:43:49.808Z"
+    },
+    "anoymus.stoic@gmail.com": {
+      "name": "akk",
+      "email": "anoymus.stoic@gmail.com",
+      "password": "$2b$12$ULiUj2B7OS7/q3VWvWOxiepXxbaTrqEoYKvtqv7zZ8T5ytcqqzaAO",
+      "role": "Co-Head",
+      "createdAt": "2026-07-15T03:03:19.159Z"
+    }
+  },
+  "members": {
+    "CF2026001": {
+      "registrationNumber": "CF2026001",
+      "name": "Yash Sharma",
+      "department": "Computer Science",
+      "year": "3rd Year",
+      "committee": "Technical",
+      "role": "Member",
+      "mobileNumber": "9876543210",
+      "createdAt": "2026-07-14T14:56:43.245Z"
+    },
+    "CF2026002": {
+      "registrationNumber": "CF2026002",
+      "name": "Neha Patil",
+      "department": "Information Technology",
+      "year": "4th Year",
+      "committee": "Web",
+      "role": "Co-Head",
+      "mobileNumber": "8765432109",
+      "createdAt": "2026-07-14T14:56:43.250Z"
+    }
+  },
+  "sessions": {
+    "0ysfy28f9v": {
+      "name": "working Session",
+      "date": "2026-07-14",
+      "createdAt": "2026-07-14T14:54:20.796Z",
+      "attendance": {
+        "CF2026001": {
+          "status": "Present",
+          "timestamp": "2026-07-14T16:36:33.097Z"
+        },
+        "CF2026002": {
+          "status": "Absent",
+          "timestamp": "2026-07-14T16:36:34.630Z"
+        }
+      },
+      "attendance.CF2026001": {
+        "status": "Present",
+        "timestamp": "2026-07-14T16:25:16.746Z"
+      },
+      "attendance.CF2026002": {
+        "status": "Absent",
+        "timestamp": "2026-07-14T16:25:19.077Z"
+      }
+    }
+  }
+}

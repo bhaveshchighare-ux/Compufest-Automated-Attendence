@@ -1,0 +1,8 @@
+uploads/
+*.jpg
+*.png
+audio.wav
+
+logs/
+__pycache__/
+*.pyc
